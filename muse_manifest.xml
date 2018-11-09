@@ -1,0 +1,30 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sideralia.com" resolutions="1x" timestamp="1541732840911">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4005195924" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="175479254" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3947169570" ref="index"/>
+    <file name="0-02.jpg" crc="4236803319" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="0-03.jpg" crc="4283915507" seo="true" ref="index"/>
+    <file name="0-04.jpg" crc="53696954" seo="true" ref="index"/>
+    <file name="0-05.jpg" crc="526413263" seo="true" ref="index"/>
+    <file name="0-06.jpg" crc="511465991" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="136107652" seo="true" mt="1541732826032" redirect="true"/>
+</manifest>
