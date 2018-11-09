@@ -6,34 +6,4 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>http://sideralia.com/images/0-03.jpg</loc>
-    <lastmod>2018-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sideralia.com/images/0-04.jpg</loc>
-    <lastmod>2018-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sideralia.com/images/0-02.jpg</loc>
-    <lastmod>2018-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sideralia.com/images/0-06.jpg</loc>
-    <lastmod>2018-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sideralia.com/images/0-05.jpg</loc>
-    <lastmod>2018-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
 </urlset>
